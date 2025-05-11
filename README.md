@@ -1,6 +1,6 @@
 # 🎬 MoviesSearch
 
-Aplicação desenvolvida em **Go (Golang)** que permite realizar buscas de filmes utilizando a [OMDb API](https://www.omdbapi.com/), com suporte a encurtamento de URLs para facilitar o compartilhamento dos resultados.
+Aplicação desenvolvida em **Go (Golang)** que permite realizar buscas de filmes utilizando a [OMDb API](https://www.omdbapi.com/).
 
 ---
 
@@ -8,7 +8,6 @@ Aplicação desenvolvida em **Go (Golang)** que permite realizar buscas de filme
 
 - 🔎 Buscar filmes por título.
 - 🌐 Integração com a OMDb API.
-- ✂️ Encurtador de URLs internas para redirecionamento rápido.
 
 ---
 
