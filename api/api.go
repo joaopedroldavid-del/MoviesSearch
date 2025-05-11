@@ -3,7 +3,7 @@ package api
 import (
 	"encoding/json"
 	"log/slog"
-	"myFirstGoProject/moviesSearch/omdb"
+	"myFirstGoProject/MoviesSearch/omdb"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
